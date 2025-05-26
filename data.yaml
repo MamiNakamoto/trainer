@@ -1,0 +1,5 @@
+train: /content/dataset/images/train
+val: /content/dataset/images/val
+
+nc: 1
+names: ['cat']
